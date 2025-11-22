@@ -19,7 +19,7 @@ Customer: Applications, identities, data, access policies
 Microsoft: Almost everything  
 Customer: Users, identity access, data input
 
-![Shared Responsibility](../Media/Shared_Responsibility.png)
+![Shared Responsibility](../Media/Shared_Responibility.png)
 
 
 ### **CapEx vs OpEx (Azure Cost Concepts)**
