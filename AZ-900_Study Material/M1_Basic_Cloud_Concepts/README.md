@@ -148,9 +148,10 @@ Its a ability of a system to remain operational to users during planned or unpla
 - Testing that disaster recovery plan
 - Load testing
 ### ***Scalability***
-The ability of a system to accommodate increasing the demand by either adding or removing the resources as needed. Also this is called **Elasticity
+The ability of a system to accommodate increasing the demand by either adding or removing the resources as needed. Also this is called **Elasticity**
 
 **Why it is needed:**
+
 Ability of a system to automatically adjust resources based on traffic demand without requiring changes to the application or system design. This helps reduce operational costs and minimize human errors, and indirectly contributes to improved availability and reliability.
 #### ***Vertical Scaling***
 Also called Scaling up or Scaling down
