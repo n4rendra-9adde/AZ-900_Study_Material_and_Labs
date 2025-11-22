@@ -18,7 +18,9 @@ Customer: Applications, identities, data, access policies
 ##### ***SaaS (Software as a Service)***
 Microsoft: Almost everything  
 Customer: Users, identity access, data input
-![[Pasted image 20250926172650.png]]
+
+![Shared Responsibility](../Media/Shared_Responsibility.png)
+
 
 ### **CapEx vs OpEx (Azure Cost Concepts)**
 
