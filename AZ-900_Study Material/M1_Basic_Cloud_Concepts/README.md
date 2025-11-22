@@ -3,10 +3,10 @@
 
 ## **1.1 What is Cloud Computing**
 
->The cloud is someone else's computer that we can utilize through the internet.
+>_The cloud is someone else's computer that we can utilize through the internet._
 #### **Shared responsibility Model:**
 
->The **Shared Responsibility Model** explains **who is responsible for what** in cloud security and operations.
+>_The **Shared Responsibility Model** explains **who is responsible for what** in cloud security and operations._
 #### **Responsibility Depends on Service Type (IaaS / PaaS / SaaS)**
 
 ##### ***IaaS (Infrastructure as a Service)***
