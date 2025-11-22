@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **1. Basic Cloud Concepts**
 
 ## **1.1 What is Cloud Computing**
@@ -210,3 +211,6 @@ Example : SQL DB
 Bill will be generated as per the actual usage
 
 ---
+=======
+# AZ-900_Study_Material_and_Labs
+>>>>>>> 0d15f1cce712dc24e051126690c990a05120288d
