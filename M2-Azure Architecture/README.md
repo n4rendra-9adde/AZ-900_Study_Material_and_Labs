@@ -1,4 +1,4 @@
-<img width="1407" height="891" alt="Pasted image 20251007110816" src="https://github.com/user-attachments/assets/da1accd4-251c-46bc-9918-f79146cd5c9a" />## **2. Azure Architecture and Services**
+## **2. Azure Architecture and Services**
 ### **2.1 Core Architectural Components**
 #### **Region**
 Set of datacenters that are combined to made a region.
@@ -324,5 +324,6 @@ Azure policy and blueprint
 Management groups to manage the group and policies
 Custom roles - Which role belongs to which work
 Soft delete - Minimum time the data will be stored after deleting the data
+
 
 
