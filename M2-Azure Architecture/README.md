@@ -1,4 +1,4 @@
-## **2. Azure Architecture and Services**
+<img width="1407" height="891" alt="Pasted image 20251007110816" src="https://github.com/user-attachments/assets/da1accd4-251c-46bc-9918-f79146cd5c9a" />## **2. Azure Architecture and Services**
 ### **2.1 Core Architectural Components**
 #### **Region**
 Set of datacenters that are combined to made a region.
@@ -237,7 +237,7 @@ Microsoft Entra ID : Identity management for azure
 Entra ID uses SAML, OAuth for the authentication
 Entra ID will handle authentication and authorization task
 
-![[Pasted image 20251007110816.png]]
+![IAM](../Media/IAM.png)
 #### Authentication and authorization
 Authentication is proving who are you like user id and password
 Authorization is "**What are you allowed to do?"** It’s the process of checking **permissions / access rights** after authentication.
@@ -324,4 +324,5 @@ Azure policy and blueprint
 Management groups to manage the group and policies
 Custom roles - Which role belongs to which work
 Soft delete - Minimum time the data will be stored after deleting the data
+
 
