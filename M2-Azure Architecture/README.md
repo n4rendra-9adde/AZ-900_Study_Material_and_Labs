@@ -47,7 +47,7 @@ The resource is associated with one subscription, to which costs.
 **_Resource Group_:** A logical grouping of resources. Resource group associated with a region, which can be different than the resources it contains.
 All services in a resource group should have similar lifecycle, deploy together and delete together.
 
-![[Pasted image 20251005145452.png]]
+![RGandR](../Media/RGandR.png)
 
 ### **2.3 Subscription**
 Its a billing section on the azure.
@@ -324,3 +324,4 @@ Azure policy and blueprint
 Management groups to manage the group and policies
 Custom roles - Which role belongs to which work
 Soft delete - Minimum time the data will be stored after deleting the data
+
