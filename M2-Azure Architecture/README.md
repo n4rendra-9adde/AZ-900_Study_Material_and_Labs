@@ -60,7 +60,7 @@ To manage the subscription on a group basis.
 
 ### **2.4 Azure Resource Manager**
 
-**[Azure Resource Manager](Definations.md) is the deployment and management service for Azure.** 
+**[Azure Resource Manager](https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview) is the deployment and management service for Azure.** 
 
 - It provides a management layer that helps you to create, update, deploy and delete resources in your Azure account.
 - Also it has management features like access control, locks, and tags to secure and organize your resources after deployment.
@@ -324,6 +324,7 @@ Azure policy and blueprint
 Management groups to manage the group and policies
 Custom roles - Which role belongs to which work
 Soft delete - Minimum time the data will be stored after deleting the data
+
 
 
 
